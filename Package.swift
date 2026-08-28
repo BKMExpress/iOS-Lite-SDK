@@ -16,8 +16,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "BKMExpressLiteSDK",
-      url: "https://entegrasyon-repo.bkmexpress.com.tr/repository/swift/iossdk/ios_lite_sdk/1.0.9.zip",
-      checksum: "1e74edd7d6bf6be98b002f8ce30fb5be130ac73313f428f04e7114005cd6498c"
+      url: "https://entegrasyon-repo.bkmexpress.com.tr/repository/swift/iossdk/ios_lite_sdk/1.1.0.zip",
+      checksum: "c5362275e661d49b5c627b1f27abef50f3246ac7738b103c46a0a93a9dc05a82"
     )
   ]
 )
